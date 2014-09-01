@@ -1,6 +1,6 @@
 {
   "name": "nodecraft-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node.js module for the offical NodeCraft API",
   "main": "index.js",
   "repository": {
