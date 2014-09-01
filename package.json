@@ -1,0 +1,24 @@
+{
+  "name": "nodecraft-api",
+  "version": "0.0.1",
+  "description": "Node.js module for the offical NodeCraft API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blazedd/NodeCraft-API---node.js"
+  },
+  "keywords": [
+    "minecraft",
+    "game",
+    "servers",
+    "nodecraft"
+  ],
+  "author": "NodeCraft Hosting LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blazedd/NodeCraft-API---node.js/issues"
+  },
+  "dependencies": {
+    "request": "~2.40.0"
+  }
+}
