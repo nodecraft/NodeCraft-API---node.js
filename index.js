@@ -13,7 +13,6 @@ module.exports = function(username, apiKey, version){
 			callback = data;
 			data = false;
 		}
-		console.log('url', url + version + '/' + uri);
 		var options = {
 			url: url + version + '/' + uri,
 			json: true,
