@@ -1,7 +1,7 @@
 NodeCraft-API---node.js
 =======================
 
-Node.js module for the Offical [NodeCraft API](http://developers.nodecraft.com).
+Node.js module for the Official [NodeCraft API](http://developers.nodecraft.com).
 
 
 ```
@@ -10,7 +10,7 @@ npm install nodecraft-api
 
 Code Example
 ----
-Please review the [API Documentation](http://developers.nodecraft.com) for more details on specific operations and acquiring an API key.
+Please review the [API Documentation](https://developers.nodecraft.com) for more details on specific operations and acquiring an API key.
 ```
   var api = require('./index.js')('username', 'xxxxx-xxxxx-xxxxx-xxxxx');
   api.services.list(console.log);
