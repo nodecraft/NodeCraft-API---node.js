@@ -1,6 +1,6 @@
 module.exports = function(username, apiKey, version){
 	var request = require('request'),
-		url = 'http://api.nodecraft.com',
+		url = 'http://api.nodecraft.com/',
 		version = version || 'v1',
 		auth = {
 			username: username,
