@@ -12,7 +12,7 @@ Code Example
 ----
 Please review the [API Documentation](https://developers.nodecraft.com) for more details on specific operations and acquiring an API key.
 ```
-  var api = require('./index.js')('username', 'xxxxx-xxxxx-xxxxx-xxxxx');
+  var api = require('nodecraft-api')('username', 'xxxxx-xxxxx-xxxxx-xxxxx');
   api.services.list(console.log);
 ```
 
